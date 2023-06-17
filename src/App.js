@@ -12,7 +12,7 @@ function App() {
       <h1>
         holloworld
       </h1>
-      <p>僕の名前は{name}です。{age}歳です。</p>
+      <p class="name">僕の名前は{name}です。{age}歳です。</p>
     </div>
   );
 }
